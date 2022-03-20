@@ -1,7 +1,8 @@
-package br.com.caio.pokedex_android
+package br.com.caio.pokedex_android.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.caio.pokedex_android.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
