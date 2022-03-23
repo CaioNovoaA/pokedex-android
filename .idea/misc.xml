@@ -3,8 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/caio.antunes/OneDrive/Documentos/Pokedexandroid/app/src/main/res/layout/activity_main.xml" value="0.3671875" />
-        <entry key="..\:/Users/caio.antunes/OneDrive/Documentos/Pokedexandroid/app/src/main/res/layout/pokemon_item.xml" value="0.5" />
+        <entry key="..\:/Users/caio.antunes/OneDrive/Documentos/Pokedexandroid/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/caio.antunes/OneDrive/Documentos/Pokedexandroid/app/src/main/res/layout/pokemon_item.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
@@ -17,7 +17,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.5" />
+        <option name="scale" value="0.3333333333333333" />
       </ProjectState>
     </option>
   </component>
